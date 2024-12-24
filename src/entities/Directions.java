@@ -1,0 +1,10 @@
+package entities;
+
+public enum Directions {
+
+    Up,
+    Down,
+    Left,
+    Right
+
+}
